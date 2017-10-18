@@ -9,4 +9,4 @@ yarn-error.log*
 
 #Libary
 node_modules/
-
+.idea

@@ -1,8 +1,8 @@
 {
   "name": "myun-open-sdk-node",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "麦云前端与后端交互的sdk，适用于pc和h5",
-  "main": "index.js",
+  "main": "build/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
